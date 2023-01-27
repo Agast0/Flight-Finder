@@ -1,0 +1,36 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+/mnt/c/Users/Zahaab/CLionProjects/HW4/Flight.h
+string
+-
+
+/mnt/c/Users/Zahaab/CLionProjects/HW4/FlightMap.h
+Flight.h
+/mnt/c/Users/Zahaab/CLionProjects/HW4/Flight.h
+list
+-
+vector
+-
+map
+-
+stack
+-
+iostream
+-
+fstream
+-
+string
+-
+
+/mnt/c/Users/Zahaab/CLionProjects/HW4/main.cpp
+FlightMap.h
+/mnt/c/Users/Zahaab/CLionProjects/HW4/FlightMap.h
+iostream
+-
+
