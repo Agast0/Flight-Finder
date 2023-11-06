@@ -1,4 +1,4 @@
-# Flight Finder hw
+# Flight Finder
  
 The application is able to find all flights from an origin city to the destination city based on the graph below. It works for other graphs too, however, the txt files must be changed.
 
